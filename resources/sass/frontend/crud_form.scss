@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021-03-16, 22:13:12
+    Author     : Acer
+*/
+
+.form-crud-container{
+    /*border: 1px solid black;*/
+    padding-right: 1px; 
+    padding-left: 1px;
+}
+.form-crud{
+    /*border: 1px solid red;*/
+   
+    width: 100%
+
+}
+
+.form-crud .field-error{
+    border: 1px red solid;
+}
+
+.form-crud  label{
+    margin-bottom: .0rem;
+}
+.form-crud .form-group {
+    margin-bottom: 1.5rem;
+}
+.form-crud-row{
+
+    padding: 0px;
+    margin-left: 0px;
+    margin-right:  0px;
+
+}
+
+.form-crud-col{
+    
+}
+
+.submit-content-crud{
+    margin-top: 10px;
+}
+
+
+

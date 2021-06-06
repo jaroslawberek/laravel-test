@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021-03-11, 23:09:57
+    Author     : Jarosław Berek
+*/
+
+.order-item{
+     font-family: 'Font Awesome 5 Free', sans-serif;
+}
+.order-item span:nth-of-type(2){   
+    float: right;
+}
+.crud-table-container{
+    
+    @media(min-width: 1200px){
+        max-width: 85%;
+            
+    }
+}
+.crud-table-group-buttons{
+    padding-right: 0.75rem;
+}
+.table-crud{
+    
+}
+.table-crud td, .table-crud th{
+    vertical-align: middle;
+}
+.td-img{
+    width: 60px;
+    margin-right: 5px;
+}
+
+.td-table-crud-option{
+    width: 16%;
+}
+
+.btn-group-crud-table{
+/*    display: none;*/
+}
+
+.btn-crud-table{
+    /*color: yellow;*/
+    margin-left: 2px;
+    width: max-content;
+    padding-left: 15px;
+    padding-right:  15px;
+    margin-top: 5px;
+    margin-bottom:  5px;
+    border-radius: 2px;
+}
+
+.bt-crud-table-icon{
+ 
+    
+}
+
+.bt-crud-table-text{
+    
+}
